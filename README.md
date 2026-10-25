@@ -4,7 +4,7 @@ Static Turkish and English introduction, privacy, terms, and support pages for G
 
 Custom domain: `gamesstar.herdem.net.tr` (DNS-only CNAME to `herdem-herdem.github.io`). HTTPS is active and enforced; the GitHub Pages certificate is approved.
 
-The legal page text is generated from `Docs/Legal/content.json` with `Tools/Legal/build_gamesstar_site.py`. The app privacy, terms, and support wording stays aligned with that canonical source. The privacy pages add a separate website-hosting notice for GitHub Pages.
+The legal page text is generated from `Docs/Legal/android-content.json` with `Tools/Legal/build_gamesstar_site.py`. The app privacy, terms, and support wording stays aligned with that canonical source. The privacy pages add a separate website-hosting notice for GitHub Pages.
 
 The site is plain HTML and CSS. It has no third-party scripts, analytics, advertising, cookie, or tracking code. Email links open the visitor's own mail app; they do not send automatically.
 
