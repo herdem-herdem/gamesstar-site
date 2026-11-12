@@ -2,7 +2,7 @@
 
 Static Turkish and English introduction, privacy, terms, and support pages for GamesStar. The public Pages source contains only website files; it does not include the game project, artwork collection, player saves, production reports, or archives.
 
-Custom domain: `gamesstar.herdem.net.tr` (DNS-only CNAME to `herdem-herdem.github.io`). HTTPS is active and enforced; the GitHub Pages certificate is approved.
+Public HTTPS address: `https://herdem-herdem.github.io/gamesstar-site/`. The expired custom domain was removed on 12 November 2026; no purchased domain is required. Keep the repository free of a `CNAME` file so subsequent deployments preserve this address.
 
 The legal page text is generated from `Docs/Legal/android-content.json` with `Tools/Legal/build_gamesstar_site.py`. The app privacy, terms, and support wording stays aligned with that canonical source. The privacy pages add a separate website-hosting notice for GitHub Pages.
 
